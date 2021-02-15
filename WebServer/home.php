@@ -13,6 +13,6 @@ echo $data['KANTOR'];
 
 echo "==============================================================";
 
-echo "Data Berhasil di Update"
+echo "Data Berhasil di Update";
 }
 ?>
