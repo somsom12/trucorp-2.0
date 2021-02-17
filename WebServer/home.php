@@ -14,6 +14,6 @@ echo $data['KANTOR'];
 echo "==============================================================";
 
 echo "Test Jenkins";
-echo "Update Data"
+echo "Update Data";
 }
 ?>
